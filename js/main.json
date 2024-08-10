@@ -1,0 +1,84 @@
+{
+    "questions": [
+        {
+            "question": "Programming language used in web development",
+            "answer": "javascript"
+        },
+        {
+            "question": "Game involving guessing words",
+            "answer": "hangman"
+        },
+        {
+            "question": "Creating and maintaining software",
+            "answer": "programming"
+        },
+        {
+            "question": "A markup language for creating web pages",
+            "answer": "html"
+        },
+        {
+            "question": "A stylesheet language used for describing the presentation of a document",
+            "answer": "css"
+        },
+        {
+            "question": "JavaScript library for building user interfaces",
+            "answer": "react"
+        },
+        {
+            "question": "A version control system",
+            "answer": "git"
+        },
+        {
+            "question": "A platform for version control and collaboration",
+            "answer": "github"
+        },
+        {
+            "question": "A tool for automating web development tasks",
+            "answer": "gulp"
+        },
+        {
+            "question": "A popular package manager for JavaScript",
+            "answer": "npm"
+        },
+        {
+            "question": "A widely used front-end framework for web development",
+            "answer": "bootstrap"
+        },
+        {
+            "question": "A JavaScript runtime built on Chrome's V8 engine",
+            "answer": "nodejs"
+        },
+        {
+            "question": "A popular relational database management system",
+            "answer": "mysql"
+        },
+        {
+            "question": "A NoSQL database program",
+            "answer": "mongodb"
+        },
+        {
+            "question": "A language used for structuring and presenting content on the web",
+            "answer": "xml"
+        },
+        {
+            "question": "A language for querying databases",
+            "answer": "sql"
+        },
+        {
+            "question": "A command-line interface for interacting with a computer's operating system",
+            "answer": "bash"
+        },
+        {
+            "question": "A platform for building mobile and desktop applications using web technologies",
+            "answer": "electron"
+        },
+        {
+            "question": "A CSS preprocessor",
+            "answer": "sass"
+        },
+        {
+            "question": "A JavaScript framework for building server-side applications",
+            "answer": "express"
+        }
+    ]
+}
